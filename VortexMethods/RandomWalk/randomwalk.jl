@@ -18,7 +18,11 @@ end
 using Plots, Random , Distributions, PlutoUI
 
 # ╔═╡ 4922b4b1-ee90-43f2-975b-54e0befa61b6
-md""" # Results for Random-Walk Simulations
+md""" 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://binder.plutojl.org/v0.19.12/open?url=https%253A%252F%252Fgist.githubusercontent.com%252Ffonsp%252Fd88b3adc8c958dce780cf7c4df8fa437%252Fraw%252F65d760ccb3da5d8be6307b85e40d94a2896ed7b6%252Fturtles.jl./HEAD)
+
+# Results for Random-Walk Simulations
 
 We consider the following problem:
 
